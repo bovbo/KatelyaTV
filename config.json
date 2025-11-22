@@ -104,11 +104,11 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源",
       "is_adult": false
-    }
-  }
-}      "api": "http://ffzy5.tv/api.php/provide/vod",
+    },
+    "ffzy5": {
+      "api": "http://ffzy5.tv/api.php/provide/vod",
       "name": "非凡影视",
-      "detail": "http://ffzy5.tv",
+      "detail": "http://ffzy5.tv",  
       "is_adult": false
     },
     "zy360": {
